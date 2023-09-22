@@ -22,13 +22,13 @@
 
 - Install dependencies: npm install
 
-- Start the development client: npm run dev
+- Start the development: npm run develop
 
 ## Demo
--DEMO GOES HERE
+https://github.com/deliaswe/BookSearch-engine/assets/113808453/903beec3-f8d8-4e11-91ea-cd560586a1dc
 
 ## Links
-- Heroku: add Heroku here
+- [HappenHub Heroku link](https://happenhubsearch-a6304aac1562.herokuapp.com/)
 
 ## Technologies
 Technologies used:
@@ -47,11 +47,8 @@ Technologies used:
 ## Contributing
 * [Delia Young GitHub](https://github.com/deliaswe)
 * [Gregory Williams GitHub](https://github.com/GregNasir)
-* [Marie GitHub](https://github.com/mluron-ArxFjs)
-* [Lukas GitHub](https://github.com/mastalukeremix)
-* [Saeeda GitHub](https://github.com/Saeeda14)
 
 ## License
-![MIT License](https://img.shields.io/badge/license-MIT-blue)
+![MIT License](https://img.shields.io/badge/license-MIT-black)
 
 - This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
